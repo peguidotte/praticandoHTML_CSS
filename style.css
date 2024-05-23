@@ -169,5 +169,6 @@ body {
 }
 
 .btn_normal:hover {
-    background-color: transparent 50%;
+    background-color: var(--preto);
+    opacity: 0.5;
 }
